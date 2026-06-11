@@ -150,17 +150,13 @@ ai-pcap-analyzer/
 ```
 # 🤝 Contributing
 
-Contributions to improve the detection accuracy or dashboard UI are welcome!
+## Contributors
 
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/NewFeature)
-
-Commit your Changes (git commit -m 'Add NewFeature')
-
-Push to the Branch (git push origin feature/NewFeature)
-
-Open a Pull Request
+| Name | Contribution |
+|--------|--------|
+| Anas Zahid | Frontend, CTI Features, MITRE ATT&CK Mapping, Dashboard Development |
+| Junaid Arshad | Backend Integration, MITRE ATT&CK Mapping, Testing & Evaluation |
+| Muhammad Talha | Machine Learning Model Development, Dataset Preparation, Training & Evaluation |
 
 # 📄 License
 
