@@ -119,21 +119,17 @@ Upload a File: Click the upload area and select a PCAP file.
 
 View Results: Wait for the analysis to complete. The dashboard will populate with the attack prediction, charts, and map data.
 
-## Landing Page
+<h2>Landing Page</h2>
+<img src="screenshots/landingpage.png" width="900">
 
-![Landing Page](landing-page.png)
+<h2>Dashboard</h2>
+<img src="screenshots/dashboard.png" width="900">
 
-## Dashboard
+<h2>IOC Explorer</h2>
+<img src="screenshots/ioc-explorer.png" width="900">
 
-![Dashboard](dashboard.png)
-
-## IOC Explorer
-
-![IOC Explorer](ioc-explorer.png)
-
-## GeoIP Map
-
-![GeoIP Map](geoip-map.png)
+<h2>GeoIP Map</h2>
+<img src="screenshots/geoip-map.png" width="900">
 
 ## 📂 Project Structure
 ```
