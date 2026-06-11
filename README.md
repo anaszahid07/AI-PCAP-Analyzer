@@ -119,6 +119,22 @@ Upload a File: Click the upload area and select a PCAP file.
 
 View Results: Wait for the analysis to complete. The dashboard will populate with the attack prediction, charts, and map data.
 
+## Landing Page
+
+![Landing Page](landing-page.png)
+
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## IOC Explorer
+
+![IOC Explorer](ioc-explorer.png)
+
+## GeoIP Map
+
+![GeoIP Map](geoip-map.png)
+
 ## 📂 Project Structure
 ```
 ai-pcap-analyzer/
